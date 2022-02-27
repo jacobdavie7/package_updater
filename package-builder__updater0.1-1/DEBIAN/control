@@ -1,0 +1,8 @@
+Package: updater
+Version: 0.1-1
+Section: misc
+Priority: optional
+Architecture: amd64
+Depends:
+Maintainer: Jacob Davie <jacob.davie@trojans.dsu.edu>
+Description: Checks for updates from apt, flatpak, and snap. Only updates list, not the actual software

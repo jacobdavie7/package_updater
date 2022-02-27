@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo
+echo -e "\e[35mapt\e[39m"
+sudo apt update
+
+echo
+echo -e "\e[35mflatpak\e[39m"
+flatpak update
+
+echo
+echo -e "\e[35msnap\e[39m"
+sudo snap refresh
