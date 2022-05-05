@@ -1,3 +1,7 @@
+# EOL Update
+This project has been rolled into my helper project and is not longer being maintained.
+<br>
+All new updates can be found in the updater module of my helper project: https://github.com/jacobdavie7/helper
 # package_updater
 -Bash shell script to check for updates from the package managers apt, flatpak and snap.\
 -This will not update any software, only the lists.\
